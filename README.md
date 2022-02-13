@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CeasarVVI
 - 👀 I’m interested in programming 
 - 🌱 I’m currently learning python
-- 💞️ I’m currently just a begginer but with time i'll be better
+- 💞️ Right now i'm just a begginer but with time i'll be better
 - 📫 How to reach me :
 Discord : Reverse#2015
 
